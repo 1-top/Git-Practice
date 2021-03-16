@@ -5,6 +5,6 @@ public class Jung {
             System.out.println(i);
         }
 
-        System.out.println("dogFoot");
+        System.out.println("dogFoot3");
     }
 }
