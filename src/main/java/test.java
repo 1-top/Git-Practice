@@ -1,3 +1,3 @@
 public class test {
-    private int id;
+    private Long id;
 }
