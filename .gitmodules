@@ -1,0 +1,3 @@
+[submodule "deprecated5"]
+	path = deprecated5
+	url = https://github.com/Harry-Bro/deprecated5.git
